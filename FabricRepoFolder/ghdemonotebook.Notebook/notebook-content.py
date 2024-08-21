@@ -23,7 +23,7 @@
 # MARKDOWN ********************
 
 # ### Fabric - Git Integration - Fabric/ADO Demo Notebook #### 
-# Fabric notebook metadata and content will be synchronized with test branch (created from main) in GH Git repository
+# Fabric notebook metadata and content will be synchronized with test branch (created from master) in [GH Git repository]https://github.com/mafascio/GHRepoFolderDemoFabric/tree/test
 
 # CELL ********************
 
